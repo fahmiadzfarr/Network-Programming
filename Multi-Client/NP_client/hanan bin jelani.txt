@@ -1,0 +1,8 @@
+First name: HANAN 
+Last name:  JELANI
+IC Number: 970404435027
+Gender: Male
+Age: 22
+Time: Thu Jan  3 00:10:54 2019
+Number of person: 5
+RM: 50

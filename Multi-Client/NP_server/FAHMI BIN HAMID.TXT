@@ -1,0 +1,8 @@
+First name: FAHMI 
+Last name:  HAMID
+IC Number: 970105435025
+Gender: Male
+Age: 22
+Time: Thu Jan  3 11:37:05 2019
+Number of person: 3
+RM: 30
